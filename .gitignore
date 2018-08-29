@@ -1,0 +1,8 @@
+node_modules/
+.idea/
+dist/
+*~
+*.tgz
+nebula_config.*
+*.iml
+coverage/

@@ -1,0 +1,9 @@
+tenant: TENANT
+appId: APP
+masterKey: MASTER
+systemKey: SYSTEM
+baseUri: http://localhost:8080/api
+debugMode: release
+proxy:
+  host: null
+  port: 0
