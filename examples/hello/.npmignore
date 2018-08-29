@@ -1,0 +1,6 @@
+*.yaml
+*.tgz
+nebula_config.json
+*~
+.npmignore
+.ignore

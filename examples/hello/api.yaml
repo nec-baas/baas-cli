@@ -1,0 +1,10 @@
+swagger: '2.0'
+basePath: /hello
+produces:
+  - application/json
+paths:
+  /sayHello:
+    get:
+      operationId: sayHello
+      summary: Hello world
+      description: Echo back "Hello world!"

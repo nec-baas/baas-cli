@@ -1,0 +1,9 @@
+sayHello:
+  code:
+    bucket: CUSTOM_CODE
+    file: hello-1.0.0.tgz
+  handler: sayHello
+  env:
+    spec: node6
+    timeout: 60
+    memorySize: 256
