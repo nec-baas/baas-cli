@@ -2,7 +2,7 @@
 /*
  * NEC Mobile Backend Platform
  *
- * COPYRIGHT (C) 2014-2016 NEC CORPORATION
+ * COPYRIGHT (C) 2014-2018 NEC CORPORATION
  */
 'use strict';
 

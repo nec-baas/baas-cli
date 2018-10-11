@@ -2,14 +2,14 @@
 /*
  * NEC Mobile Backend Platform
  *
- * COPYRIGHT (C) 2014-2017 NEC CORPORATION
+ * COPYRIGHT (C) 2014-2018 NEC CORPORATION
  */
 'use strict';
 
 const program = require('commander');
 
 program
-    .version("7.0.0")
+    .version("7.5.0")
     .command("init-config", "initialize config file")
 
     .command("create-code", "upload code")
