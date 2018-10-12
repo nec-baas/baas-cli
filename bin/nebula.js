@@ -9,7 +9,7 @@
 const program = require('commander');
 
 program
-    .version("7.5.0")
+    .version("7.5.1")
     .command("init-config", "initialize config file")
 
     .command("create-code", "upload code")
